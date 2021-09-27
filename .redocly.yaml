@@ -13,7 +13,7 @@ referenceDocs:
     sidebar:
       backgroundColor: '#333333'
       typography:
-        fontFamily: 'Roboto, sans-serif'
+        fontFamily: 'times new roman'
     colors:
       primary:
         main: "#345933"
