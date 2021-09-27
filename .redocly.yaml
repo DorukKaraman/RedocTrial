@@ -11,9 +11,9 @@ referenceDocs:
   htmlTemplate: ./docs/index.html
   theme:
     sidebar:
-      backgroundColor: '#333333'
+      backgroundColor: '#ffffff'
       typography:
-        fontFamily: 'times new roman'
+        fontFamily: 'Roboto, sans-serif'
     colors:
       primary:
         main: "#345933"
