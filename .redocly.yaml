@@ -7,8 +7,13 @@ lint:
   rules:
     no-unused-components: warning
 referenceDocs:
+  showConsole: true
   htmlTemplate: ./docs/index.html
   theme:
+    sidebar:
+      backgroundColor: '#333333'
+      typography:
+        fontFamily: 'Roboto, sans-serif'
     colors:
       primary:
         main: "#345933"
